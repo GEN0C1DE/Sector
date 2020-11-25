@@ -5,7 +5,8 @@ module.exports = {
 	example: "",
 	guildonly: false,
 	delay: false,
-	execute(User, Message, Arguments) {
-    
+	execute: function(User, Message, Arguments) {
+    		FunctionDirectory = require("/root/Restro/Functions/Example.js")
+		FunctionDirectory.Execute("This is only a test.", "This is another test.")
 	}
 };
