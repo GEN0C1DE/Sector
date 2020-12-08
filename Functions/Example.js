@@ -1,3 +1,5 @@
+// NPM Packages Needed: example, example, example.
+
 class Example {
   FunctionOfStuff(Arguments1, Arguments2) {
     return console.log(`${Arguments1} and ${Arguments2} have both been identified as arguments.`)
