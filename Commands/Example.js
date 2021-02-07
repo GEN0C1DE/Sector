@@ -4,7 +4,7 @@ module.exports = {
 	commanddescription: 'Example command for Restro.',
 	example: "",
 	guildonly: false,
-	delay: false,
+	developeronly: false,
 	execute: function(God, Message, Arguments) {
 		// Global Functions allow for FunctionDirectory() to be called into existance using the main script.
 		var ExecuteAuthority = new FunctionDirectory()
