@@ -6,7 +6,7 @@ module.exports = {
 	guildonly: false,
 	delay: false,
 	execute: function(God, Message, Arguments) {
-    		FunctionDirectory = require("/root/Restro/Functions/Example.js")
+		// Global Functions allow for FunctionDirectory() to be called into existance using the main script.
 		var ExecuteAuthority = new FunctionDirectory()
 		return ExecuteAuthority.FunctionOfStuff("This is developed by INE Developers.", "2020 - 2021.");
 	}
