@@ -3,4 +3,4 @@
 
 # RESTRO SELFBOT made by the SECTOR DEVELOPMENT COMMUNITY:
 - We are not responsible if your account is disabled for using this product. We developed this to have fun.
-- How to use, or get this project is not on Github, but rather in the Discord Server. Join the Discord Server Today! discord.gg/sector
+- How to use? This project may, or may not be released. This requires some knowledge of coding if you are going to use, and how the mongoose API works.
