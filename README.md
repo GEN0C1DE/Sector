@@ -4,6 +4,6 @@
 # Siynez
 - Discord Account cleaner that includes various functions.
 
-# DEVELOPED by the SECTOR DEVELOPMENT COMMUNITY:
+# DEVELOPED by the EQUALLY WORTHLESS DEVELOPMENT COMMUNITY:
 - We are not responsible if your account is disabled for using this product. We developed this to have fun.
 - How to use? This project may, or may not be released. This requires some knowledge of coding if you are going to use, and how the mongoose API works.
